@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "express": "^4.17.3",
+        "request-ip": "^2.1.3"
+    },
+    "name": "ip-api",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "NAT2K15",
+    "license": "ISC",
+    "description": ""
+}
